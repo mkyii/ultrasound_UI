@@ -1,3 +1,4 @@
 ﻿# AI_IntraCPR
 
 checkpoint
+https://drive.google.com/file/d/17ORhT4tBFoeonKs-MkVlhOK1kRsxUEXi/view?usp=sharing
