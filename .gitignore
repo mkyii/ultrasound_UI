@@ -1,0 +1,15 @@
+# 데이터
+/intracpr_cac/
+*.csv
+*.xlsx
+*.dcm
+*.json
+*.zip
+/Data/
+*.png
+
+# 체크포인트
+/checkpoint/
+/sam2/checkpoints/
+/__pycache__/
+/016_4_43/
